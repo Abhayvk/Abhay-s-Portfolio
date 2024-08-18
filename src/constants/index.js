@@ -57,7 +57,7 @@ export const PROJECTS = [
   },
   {
     title: "College ERP",
-    link:"https://github.com/Abhayvk",
+    link:"https://github.com/Abhayvk/ERP-Abhay",
     image: project2,
     description:
       "Proficient in developing an Attendance System with MongoDB for streamlined data management. Skilled in creating user-friendly interfaces using React.js and Node.js for seamless faculty attendance tracking. Experienced in integrating feedback features to facilitate student insights and enhance course effectiveness",
@@ -65,7 +65,7 @@ export const PROJECTS = [
     },
   {
     title: "Library Management Application",
-    link:"https://github.com/Abhayvk",
+    link:"https://abhay-kllibrary-app.vercel.app/new_acc.html",
     image: project3,
     description:
       " Engineered a full-stack library management system using Java, implementing a microservices architecture for scalability. Designed and developed front-end and back-end components, ensuring seamless interaction between services. The system facilitated efficient book cataloging, user management, and transaction processing, offering a responsive UI and robust performance.",
