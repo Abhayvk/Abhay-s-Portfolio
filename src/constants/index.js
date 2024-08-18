@@ -15,14 +15,14 @@ export const ABOUT_TEXT = `I am a final-year B.Tech student at KL University, fr
 export const CERTIFICATIONS = [
     {
       title: "Aviatrix Certified Multi-Cloud Networks Associate",
-      link:"https://www.credly.com/earner/earned/badge/2b3f0884-7b7c-4517-9d68-b6d27914118c",
+      link:"https://www.credly.com/badges/2b3f0884-7b7c-4517-9d68-b6d27914118c/public_url",
       image: certification1,
       description:"The Aviatrix certification validates foundational knowledge of cloud services, including core AWS and Google services, security, and compliance. It is designed for individuals who are new to the cloud and want to build a strong foundation for further Cloud certifications.",
       technologies: ["AWS Core Services","Cloud Security","Billing and Pricing Models","Global Cloud Infrastructure"],
     },
     {
       title: "Red Hat Certified Enterprise Application Developer",
-      link:"https://www.credly.com/earner/earned/badge/65df174c-5750-454c-a006-8a0924bc706c",
+      link:"https://www.credly.com/badges/65df174c-5750-454c-a006-8a0924bc706c/public_url",
       image: certification2,
       description:"The Red Hat Certified Enterprise Application Developer (RHCED) certification demonstrates proficiency in designing, developing, and deploying enterprise-ready applications using Red Hat technologies. It covers topics such as API management, persistence with JPA, CDI, and REST services.",
         technologies: ["Red Hat Enterprise Linux", "Java EE", "Hibernate/JPA", "RESTful Services"],
@@ -49,7 +49,7 @@ export const CERTIFICATIONS = [
 export const PROJECTS = [
   {
     title: "Pawn Broker & Mortgaging Web App",
-    link:"https://github.com/Abhayvk/mortgaging_systems",
+    link:"https://github.com/Abhayvk/Mortgage-pawn-broker-App",
     image: project1,
     description:
       "Developed a comprehensive web application for managing pawn brokering and mortgage processes using Django Framework for robust backend functionality, integrated MySQL for efficient data management, and used HTML, CSS, and Python to create a responsive and user-friendly interface. The system includes transaction handling and customer management enhancing user experience.",
